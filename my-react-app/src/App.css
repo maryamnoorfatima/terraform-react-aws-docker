@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 40px;
+  color: white;
+  border-radius: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+  text-decoration: none;
+}

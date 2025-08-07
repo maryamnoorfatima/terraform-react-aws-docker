@@ -1,0 +1,6 @@
+aws_region      = "us-west-2"
+ami_id          = "ami-094125af156557ca2"
+instance_type   = "t3.micro"
+instance_name   = "my-docker-instance"
+key_name = "my-key"
+docker_message  = "Hello from Docker!"

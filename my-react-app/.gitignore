@@ -1,0 +1,20 @@
+
+# Terraform files to ignore
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Node.js
+node_modules/
+build/
+
+
+*.log
+
+Thumbs.db         # Windows
+
+*.exe
+
+.env
+.env.*
